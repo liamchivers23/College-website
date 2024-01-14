@@ -1,0 +1,40 @@
+.main-page-signup {
+  text-decoration: none;
+  color: white;
+}
+
+.main-page-login {
+  text-decoration: none;
+  color: black;
+}
+
+.ourClasses-Home {
+  text-decoration: none;
+  color: white;
+}
+
+.ourInstructors-Home {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  border-radius: 40px;
+}
+
+.tableHead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-lg-4 {
+  margin-bottom: 20px;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

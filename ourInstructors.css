@@ -1,0 +1,7 @@
+.instructors-cards {
+  display: flex;
+  gap: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  justify-content: space-evenly;
+}

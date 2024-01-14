@@ -1,0 +1,23 @@
+.main-page-signup {
+  text-decoration: none;
+  color: white;
+}
+
+.main-page-login {
+  text-decoration: none;
+  color: black;
+}
+
+.ourClasses-Home {
+  text-decoration: none;
+  color: white;
+}
+
+.ourInstructors-Home {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  border-radius: 40px;
+}
